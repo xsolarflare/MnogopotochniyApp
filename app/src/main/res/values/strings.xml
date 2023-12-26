@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkOrWhateveritshouldbe</string>
+    <string name="btn_start">Начать вне потока</string>
+    <string name="btn_start_second">Начать второй поток</string>
+    <string name="btn_get_output">Получить данные</string>
+
+    <string name="cb_check">Проверка</string>
+
+    <string name="nevermind">Не обращайте внимания на тестовое изображение</string>
+</resources>
